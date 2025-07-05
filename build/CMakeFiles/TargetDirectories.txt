@@ -1,0 +1,12 @@
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/intrinsics_gen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/vt_gen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/omp_gen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/acc_gen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/ARMTargetParserTableGen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/my_tblgen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/run-tablegen.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/test_main.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/edit_cache.dir
+/Users/tayboonl/Projects/TableGenDemo/build/CMakeFiles/rebuild_cache.dir
